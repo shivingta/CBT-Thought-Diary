@@ -1,6 +1,6 @@
 {
-  "summary": "Interactive motion-driven CBT Thought Record creation experience featuring a dynamic brain neural-pattern alteration graphic, an interactive belief de-escalation dial with live cognitive shifts, and a streamlined 3-bullet personal data reflection section.",
-  "updatedAt": "2026-11-04T20:20:12.163750509Z",
+  "summary": "Implementation plan for the desktop-optimized CBT Thought Record experience:\n- Remove the top-right '+ New' button from the CBT header.\n- Implement an aligned full-width interactive neural canvas with a docked quick-start card matching in height and visual balance.\n- Build a therapist-grade Clinical CBT Data Analysis Suite featuring cognitive flexibility metrics, distortion frequency analysis, somatic symptom correlation, and clinical recommendations.",
+  "updatedAt": "2026-11-05T16:26:38.525052019Z",
   "requestFeedback": true,
   "userFacing": true
 }
